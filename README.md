@@ -1,5 +1,7 @@
 # Ansible: Up and Running code samples
 
+[tntC4stl3] Change the code to fit Ansible 2.1.2.0
+
 This repository contains code samples from [Ansible: Up and
 Running](http://ansiblebook.com), organized by book chapter.
 
